@@ -18,8 +18,30 @@
 &lt;p&gt;工業4.0=客製化,體貼&lt;/p&gt;
 &lt;p&gt;設proxy=proxy.mde.tw 3128&lt;/p&gt;
 &lt;p&gt;近端裝pelican: pip install pelican&lt;/p&gt;
-&lt;p&gt;製圖影片
-&lt;iframe src="https://player.vimeo.com/video/195178819" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/195178819"&gt;2016 12 11 21 17 22 646&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;製圖作業&lt;/p&gt;
+&lt;h3&gt;3D印表機零件&lt;/h3&gt;
+&lt;h3&gt;本體&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="./../w14/body.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="./../w14/body.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;支架&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="./../w14/stent.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="./../w14/stent.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;固定塊&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="./../w14/block.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;支柱&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="./../w15/pillar.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;連接桿&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="./../w15/rod.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;底盤&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="./../w15/chassis.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;圓盤&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="./../w15/disc.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;本體&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="./../w15/finish.html" width="800" height="600"&gt;&lt;/iframe&gt;
+製圖影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/195178819" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/195178819"&gt;2016 12 11 21 17 22 646&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/190855153" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/190855153"&gt;2016 11 09 19 56 21 338&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
