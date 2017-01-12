@@ -14,8 +14,8 @@
 <v t="leo.20170108161344.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="leo.20170108161400.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="leo.20170108161405.1"><vh>@path ./../</vh>
-<v t="leo.20170108161405.2"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="leo.20170108161405.1" a="E"><vh>@path ./../</vh>
+<v t="leo.20170108161405.2" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20170108161405.3"><vh>@button pelican-blog</vh></v>
 </v>
 <v t="leo.20170108161405.4"><vh>設定與開發</vh>
@@ -69,14 +69,14 @@
 </v>
 <v t="leo.20170108161410.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="leo.20170108161415.1"><vh>md 檔案範例</vh></v>
-<v t="leo.20170108161423.1"><vh>@path ./../content</vh>
-<v t="leo.20170108161423.2"><vh>yen 所寫的網誌文章</vh>
-<v t="leo.20170108161423.3"><vh>201609</vh>
+<v t="leo.20170108161423.1" a="E"><vh>@path ./../content</vh>
+<v t="leo.20170108161423.2" a="E"><vh>yen 所寫的網誌文章</vh>
+<v t="leo.20170108161423.3" a="E"><vh>201609</vh>
 <v t="leo.20170108161423.4"><vh>@edit 20160915.md</vh></v>
 <v t="leo.20170108161423.5"><vh>@edit 20160922.md</vh></v>
 <v t="leo.20170108161423.6"><vh>@edit 20160929.md</vh></v>
 </v>
-<v t="leo.20170108161423.7"><vh>201610</vh>
+<v t="leo.20170108161423.7" a="E"><vh>201610</vh>
 <v t="leo.20170108161423.8"><vh>@edit 20161006.md</vh></v>
 <v t="leo.20170108161423.9"><vh>@edit 20161013.md</vh></v>
 <v t="leo.20170108161423.10"><vh>@edit 20161020.md</vh></v>
@@ -88,12 +88,13 @@
 <v t="leo.20170108161423.16"><vh>@edit 20161201.md</vh></v>
 <v t="leo.20170108161423.17"><vh>@edit 20161215.md</vh></v>
 <v t="leo.20170108161423.18"><vh>@edit 20161222.md</vh></v>
-</v>
-</v>
-</v>
-<v t="leo.20170108161429.1"><vh>@path ./../content/pages</vh>
-<v t="leo.20170108161429.2"><vh>yen 所寫的 pages 文章</vh>
+<v t="leo.20170112150131.1"><vh>@edit 20170112.md</vh></v>
+<v t="leo.20170108161429.1" a="E"><vh>@path ./../content/pages</vh>
+<v t="leo.20170108161429.2" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="leo.20170108161429.3"><vh>@edit pages_1.md</vh></v>
+</v>
+</v>
+</v>
 </v>
 </v>
 <v t="leo.20170108161435.1"><vh>@edit ../README.md</vh></v>
