@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423139上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-12-22T00:00:00+08:00</updated><entry><title>2016.12.22第十五週</title><link href="./20161222di-shi-wu-zhou.html" rel="alternate"></link><published>2016-12-22T00:00:00+08:00</published><updated>2016-12-22T00:00:00+08:00</updated><author><name>40423139曾繼緯</name></author><id>tag:,2016-12-22:./20161222di-shi-wu-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423139上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T00:00:00+08:00</updated><entry><title>2017.01.12電腦輔助設計實習課程總結</title><link href="./20170112dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><published>2017-01-12T00:00:00+08:00</published><updated>2017-01-12T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:,2017-01-12:./20170112dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;p&gt;學期統整&lt;/p&gt;
+&lt;p&gt;1.在自己的github帳號創立一個 2016fallcadp_hw倉儲
+把最下面的 Add.gitignore輸入 Python  Add a license輸入 Agpl在 2016fallcadp_hw倉儲 建立gh-pages分支&lt;/p&gt;
+&lt;p&gt;2.按上方的一個setting-branches-選擇gh-pages&lt;/p&gt;
+&lt;p&gt;3.在系上的電腦 輸入 &lt;font color="#990099"&gt;140.130.17.17/2016fall &lt;/font&gt;下載近端的python&lt;/p&gt;
+&lt;p&gt;4.在自己的帳號建立 40423139.github.io
+說明打 my home page
+把最下面的 Add.gitignore輸入 Python  Add a license輸入 Agpl&lt;/p&gt;
+&lt;p&gt;5.在 40423125.github.io倉儲的左上角有一個 Create new file點進去
+新增&lt;font color="#990099"&gt;40423139.github.io.index.html &lt;/font&gt;就會有自己的網頁了&lt;/p&gt;
+&lt;p&gt;機械設計系的目標:&lt;/p&gt;
+&lt;p&gt;培養具創造力 精通表達&lt;/p&gt;
+&lt;p&gt;能積極配合 偕同產品設計流程的機械設計工程師&lt;/p&gt;
+&lt;p&gt;創造力=自學力+程式力+想像力&lt;/p&gt;
+&lt;p&gt;表達=oral,text,2D,3D,analytical,physical&lt;/p&gt;
+&lt;p&gt;協同產品設計=computer,network,tools,project&lt;/p&gt;
+&lt;p&gt;工業4.0=客製化,體貼&lt;/p&gt;
+&lt;p&gt;設proxy=proxy.mde.tw 3128&lt;/p&gt;
+&lt;p&gt;近端裝pelican: pip install pelican&lt;/p&gt;
+&lt;p&gt;製圖影片
+&lt;iframe src="https://player.vimeo.com/video/195178819" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/195178819"&gt;2016 12 11 21 17 22 646&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/190855153" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/190855153"&gt;2016 11 09 19 56 21 338&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/190854827" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/190854827"&gt;2016 11 09 20 03 11 881&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/185309610" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/185309610"&gt;40423139&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w18"></category></entry><entry><title>2016.12.22第十五週</title><link href="./20161222di-shi-wu-zhou.html" rel="alternate"></link><published>2016-12-22T00:00:00+08:00</published><updated>2016-12-22T00:00:00+08:00</updated><author><name>40423139曾繼緯</name></author><id>tag:,2016-12-22:./20161222di-shi-wu-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h3&gt;3D印表機零件&lt;/h3&gt;
 &lt;h2&gt;支柱&lt;/h2&gt;
