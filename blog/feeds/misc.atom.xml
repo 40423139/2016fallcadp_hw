@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423139上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-05-07T00:00:00+08:00</updated><entry><title>2017.05.07第十一週</title><link href="./20170507di-shi-yi-zhou.html" rel="alternate"></link><published>2017-05-07T00:00:00+08:00</published><updated>2017-05-07T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:,2017-05-07:./20170507di-shi-yi-zhou.html</id><summary type="html">&lt;h2&gt;齒輪嚙合傳動17齒&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423139上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-05-07T00:00:00+08:00</updated><entry><title>2017.05.07第十一週</title><link href="./20170507di-shi-yi-zhou.html" rel="alternate"></link><published>2017-05-07T00:00:00+08:00</published><updated>2017-05-07T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:,2017-05-07:./20170507di-shi-yi-zhou.html</id><summary type="html">&lt;h1&gt;齒輪嚙合傳動17齒&lt;/h1&gt;
 
 
 &lt;p&gt;&lt;a href="https://40423139.github.io/2017springcd_hw/blog/40423139W11-2.html"&gt;齒輪嚙合傳動11齒&lt;/a&gt;&lt;/p&gt;
@@ -284,7 +284,7 @@ def draw():
     cgo.render(gear1, {'x':cx+pr*2*0.5-pr/2, 'y':cy, 'scl':0.5, 'degs':0})
 
 set_interval(draw, 2)
-&lt;/script&gt;</summary><category term="w11"></category></entry><entry><title>2017.05.06第十一週</title><link href="./20170506di-shi-yi-zhou.html" rel="alternate"></link><published>2017-05-06T00:00:00+08:00</published><updated>2017-05-06T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:,2017-05-06:./20170506di-shi-yi-zhou.html</id><summary type="html">&lt;h2&gt;齒輪嚙合傳動13齒&lt;/h2&gt;
+&lt;/script&gt;</summary><category term="w11"></category></entry><entry><title>2017.05.06第十一週</title><link href="./20170506di-shi-yi-zhou.html" rel="alternate"></link><published>2017-05-06T00:00:00+08:00</published><updated>2017-05-06T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:,2017-05-06:./20170506di-shi-yi-zhou.html</id><summary type="html">&lt;h1&gt;齒輪嚙合傳動13齒&lt;/h1&gt;
 
 
 &lt;p&gt;&lt;a href="https://40423139.github.io/2017springcd_hw/blog/40423139W11-2.html"&gt;齒輪嚙合傳動11齒&lt;/a&gt;&lt;/p&gt;
@@ -569,7 +569,7 @@ def draw():
     cgo.render(gear1, {'x':cx+pr*2*0.5-pr/2, 'y':cy, 'scl':0.5, 'degs':0})
 
 set_interval(draw, 2)
-&lt;/script&gt;</summary><category term="w11"></category></entry><entry><title>2017.05.05第十一週</title><link href="./20170505di-shi-yi-zhou.html" rel="alternate"></link><published>2017-05-05T00:00:00+08:00</published><updated>2017-05-05T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:,2017-05-05:./20170505di-shi-yi-zhou.html</id><summary type="html">&lt;h2&gt;協同 2D 正齒輪傳動繪圖17齒&lt;/h2&gt;
+&lt;/script&gt;</summary><category term="w11"></category></entry><entry><title>2017.05.05第十一週</title><link href="./20170505di-shi-yi-zhou.html" rel="alternate"></link><published>2017-05-05T00:00:00+08:00</published><updated>2017-05-05T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:,2017-05-05:./20170505di-shi-yi-zhou.html</id><summary type="html">&lt;h1&gt;協同 2D 正齒輪傳動繪圖17齒&lt;/h1&gt;
 
 
 &lt;p&gt;&lt;a href="https://40423139.github.io/2017springcd_hw/blog/40423139W11.html"&gt;正齒輪11齒&lt;/a&gt;&lt;/p&gt;
@@ -820,7 +820,7 @@ cy = canvas.height/2
 gear.translate(cx, cy)
 # render 繪出靜態正齒輪輪廓
 cgo.render(gear)
-&lt;/script&gt;</summary><category term="w11"></category></entry><entry><title>2017.05.04第十一週</title><link href="./20170504di-shi-yi-zhou.html" rel="alternate"></link><published>2017-05-04T00:00:00+08:00</published><updated>2017-05-04T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:,2017-05-04:./20170504di-shi-yi-zhou.html</id><summary type="html">&lt;h2&gt;協同 2D 正齒輪傳動繪圖13齒&lt;/h2&gt;
+&lt;/script&gt;</summary><category term="w11"></category></entry><entry><title>2017.05.04第十一週</title><link href="./20170504di-shi-yi-zhou.html" rel="alternate"></link><published>2017-05-04T00:00:00+08:00</published><updated>2017-05-04T00:00:00+08:00</updated><author><name>40423139</name></author><id>tag:,2017-05-04:./20170504di-shi-yi-zhou.html</id><summary type="html">&lt;h1&gt;協同 2D 正齒輪傳動繪圖13齒&lt;/h1&gt;
 
 
 &lt;p&gt;&lt;a href="https://40423139.github.io/2017springcd_hw/blog/40423139W11.html"&gt;正齒輪11齒&lt;/a&gt;&lt;/p&gt;
